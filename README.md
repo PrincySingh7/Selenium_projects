@@ -18,8 +18,8 @@ Each Java file demonstrates a specific automation task:
 
 ## 🧰 Tech Stack
 
-**Programming Language:** Java (JDK 8)
-**Automation Tool:** Selenium WebDriver
-**IDE:** Eclipse
-**Build Tool:** Not used (manually configured project in Eclipse)
-**Browser Driver:** ChromeDriver
+**Programming Language:** Java (JDK 8).
+**Automation Tool:** Selenium WebDriver.
+**IDE:** Eclipse.
+**Build Tool:** Not used (manually configured project in Eclipse).
+**Browser Driver:** ChromeDriver.
